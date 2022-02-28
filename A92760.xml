@@ -1,0 +1,442 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Religious Societies in the city of Dublin, on the 29th of Septemb. 1695 Together with the method to be observed by them at their meetings, and the laws of their Society, with the 39 Articles of the Church of Ireland, By B. Scroggs, D.D.</title>
+            <author>Scroggs, Benedict, 1657 or 8-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92760</idno>
+            <idno type="STC">Wing S2120</idno>
+            <idno type="STC">ESTC R229819</idno>
+            <idno type="EEBO-CITATION">99895527</idno>
+            <idno type="PROQUEST">99895527</idno>
+            <idno type="VID">152989</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92760)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152989)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2338:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Religious Societies in the city of Dublin, on the 29th of Septemb. 1695 Together with the method to be observed by them at their meetings, and the laws of their Society, with the 39 Articles of the Church of Ireland, By B. Scroggs, D.D.</title>
+                  <author>Scroggs, Benedict, 1657 or 8-1696.</author>
+               </titleStmt>
+               <extent>67, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Jacob Milner and are to be sold at his shop over against the end of Essex-Bridge in Essex-street,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>L copy pages stained with some loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Thirty-nine Articles --  Early works to 1800.</term>
+               <term>Bible. --  N.T. --  Acts II, 42 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152989:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before The Religious Societies In the City of Dublin, On the <hi>29th</hi> of <hi>Septemb.</hi> 1695. Together with the method to be obſerved by them at their Meetings, and the Laws of their Society, with the 39 Articles of the Church of <hi>Ireland,</hi>
+            </p>
+            <p>By <hi>B. Scroggs, D. D.</hi>
+            </p>
+            <p>
+               <hi>Dublin,</hi> Printed for <hi>Jacob Milner</hi> and are to be Sold at his Shop over againſt the End of <hi>Eſſex-Bridge</hi> in <hi>Eſſex-ſtreet.</hi> 1695</p>
+            <pb facs="tcp:152989:2" rendition="simple:additions"/>
+            <pb facs="tcp:152989:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="prefatory_letter">
+            <pb facs="tcp:152989:3"/>
+            <pb facs="tcp:152989:3"/>
+            <head>To the ſeveral Religious So<g ref="char:EOLhyphen"/>cieties in the Kingdom of <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>Brethren,</salute>
+            </opener>
+            <p>I Have Publiſh'd this ſhort Diſcourſe accord<g ref="char:EOLhyphen"/>ing to your Requeſt, and if you are profited by it, and encouraged to proſecute the Good Work you are engaged in, I am not much concern'd what Cenſure the world may paſs upon it. I have alſo added the Laws and Method to be obſerv'd by all your Societies thro the whole Kingdom, and
+<pb facs="tcp:152989:4"/> have made a few alterations, and ſuch additions as you deſired in the devotion uſed at your Meetings; and if in any thing elſe I can ſerve you, I ſhall neither ſpare my pains nor my prayers for you, nor any charges as far as my abilities extend.</p>
+            <p>And now I muſt beg leave to put you in mind of a Duty which I have ſo Frequently and Earneſtly urged and repeated hereto<g ref="char:EOLhyphen"/>fore, that above all things you avoid all diſſentions and diviſions, the fatal Rock up<g ref="char:EOLhyphen"/>on which the nobleſt deſigns
+<pb facs="tcp:152989:4"/> do ſo often ſplit and miſcar<g ref="char:EOLhyphen"/>ry, and which has almoſt ruin'd Chriſtianity it ſelf, a<g ref="char:EOLhyphen"/>gainſt which no perſecution nor malice of the Enemy cou'd ever prevail. And therefore beware leſt you receive any into your Socie<g ref="char:EOLhyphen"/>ties that come for this end, to diſturb and diſtract you, not out of ill-will to Religi<g ref="char:EOLhyphen"/>on in general, but to the Eſtabliſh't Church, which by your examples is likely to be encreas'd as well as edi<g ref="char:EOLhyphen"/>fied. Avoid all diſputes, and then you cannot fall into any violence of paſſion: and
+<pb facs="tcp:152989:5"/> if you ſhou'd be angry, you muſt ſtifle it in the begin<g ref="char:EOLhyphen"/>ning, and never ſuffer it to proceed to a diviſion or ſe<g ref="char:EOLhyphen"/>paration, or a ſettled grudge or animoſity between par<g ref="char:EOLhyphen"/>ties. And to this end let every ſingle man reſolve to reconcile his Brethren when they are at difference; and let all in general agree to put ſtrictly in Execution that Law which you have for this purpoſe. And may the Favorer and Protector of all good deſigns continue and encreaſe the ſucceſs of your Endeavours, and give you
+<pb facs="tcp:152989:5"/> courage, and prudence, and perſeverance, and all the Graces that are neceſſary to carry on this great and bleſſ<g ref="char:EOLhyphen"/>ed Undertaking. This ſhall always be the Prayer of</p>
+            <closer>
+               <signed>Your moſt Affectionate Brother and Humble Servant. B. Scroggs.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:152989:6"/>
+            <pb n="9" facs="tcp:152989:6"/>
+            <epigraph>
+               <bibl>Acts of the Apoſt. 2 Chap. 42 Verſe.</bibl>
+               <q>
+                  <p>And they continued stedfaſtly in the Apoſtles Doctrine, and Fel<g ref="char:EOLhyphen"/>lowſhip, and in Breaking of Bread, and in Prayers.</p>
+               </q>
+            </epigraph>
+            <p>THo I mention only this Verſe for my Text, yet my deſign is to take for my Subject all the manners and cuſtoms of the firſt &amp; beſt of all Chriſtians deſcribed in this and the follow<g ref="char:EOLhyphen"/>ing Chapters by the Evangeliſt St. <hi>Luke:</hi> and becauſe my diſ<g ref="char:EOLhyphen"/>courſe is intended only for thoſe ſocieties of young men that have lately aſſembled them<g ref="char:EOLhyphen"/>ſelves with deſign to imitate that primitive Zeal and Piety;
+<pb n="10" facs="tcp:152989:7"/> I ſhall take leave to ſpeak only what's proper to them, and that alſo in a more plain and fami<g ref="char:EOLhyphen"/>liar way than is uſal in this place.</p>
+            <p>All good men muſt be Tranſ<g ref="char:EOLhyphen"/>ported with joy, to ſee any thing in this wicked age like that Fervour and Life of Reli<g ref="char:EOLhyphen"/>gion that ran thro the whole body of the Primitive Church. It ſhou'd be as pleaſant and ſur<g ref="char:EOLhyphen"/>prizing as to find Life returning into the eyes and limbs of a dead friend: and certainly, if ever Chriſtianity be reco<g ref="char:EOLhyphen"/>ver'd, it muſt be by ſuch means as are now beginning to be uſed; it muſt be by religious ſocieties and combinations a<g ref="char:EOLhyphen"/>gainſt the Enemy of our ſouls, by which we warm, and excite, and encourage, and direct one
+<pb n="11" facs="tcp:152989:7"/> another, and to think to do this by the zeal, or prudence, or the labours of ſingle men, is as great a folly as to expect the conqueſt of our temporal enemies by ſending one man at a time to wage war with their whole armies. I might inſiſt long up<g ref="char:EOLhyphen"/>on this ſubject, in ſhewing the uſe and neceſſity of ſocieties for the reducing of piety to its pri<g ref="char:EOLhyphen"/>mitive vigour; but at preſent twill be ſufficient to juſtifie and recommend to all good men theſe particular ſocieties from the practiſe of thoſe Chriſtians mention'd in my Text; for tho they cannot equal 'em in that extraordinary degree of Piety, nor imitate 'em in the miracu<g ref="char:EOLhyphen"/>lous power of the ſpirit<g ref="char:punc">▪</g> yet it is plain that they reſemble 'em in moſt other reſpects, as I
+<pb n="12" facs="tcp:152989:8"/> ſhall now prove by ſeveral in<g ref="char:EOLhyphen"/>ſtances.</p>
+            <p>
+               <hi>1ſt.</hi> The Chriſtians menti<g ref="char:EOLhyphen"/>on'd in my Text did often meet and converſe together, to im<g ref="char:EOLhyphen"/>prove one another in Piety, and onflame each others Zeal: and this I take to be the meaning of the word, Fellowſhip, in my Text; not only the fellowſhip of the Apoſtles (tho this muſt alſo be underſtood) but fellow<g ref="char:EOLhyphen"/>ſhip with one another in their houſes, and in the abſence of the Apoſtles. For the number of the new Converts being then ſo great, that at one Sermon no fewer than threethouſand were converted, it was impoſſible that the Apoſtles ſhou'd every day be preſent at every Con<g ref="char:EOLhyphen"/>gregation or Aſſembly in their houſes, And beſides, we have
+<pb n="13" facs="tcp:152989:8"/> examples of ſuch Meetings in the Scriptures, where the people in the abſence of the Clergy have met together in a private way for devotion and other ho<g ref="char:EOLhyphen"/>ly ends: as we find in the <hi>12th</hi> Chapt. of the <hi>Acts,</hi> where, upon the diſporſion and flight of the Apoſtles, <hi>Peter</hi> came to the houſe of <hi>Mary,</hi> and found there many Diſciples gathered toge<g ref="char:EOLhyphen"/>ther for Prayer. Now tho theſe Aſſemblles of Chriſtians were in this unlike our Societies, that the people in them were of all ages and ſexes and condi<g ref="char:EOLhyphen"/>tions, but here only men under certain qualifications are ad<g ref="char:EOLhyphen"/>mitted; yet their example will warrant and juſtiſe our practiſe; and if one be lawful, the other is at leaſt as warrantable, ſince the deſign and conſequence of
+<pb n="14" facs="tcp:152989:9"/> their meeting is the ſame, as I ſhall ſhew it to be hereafter. In the mean while we ſhall ſup<g ref="char:EOLhyphen"/>poſe 'em thus far to be like, in their meeting together in houſes for private Religious exerciſes. And,</p>
+            <p>
+               <hi>2dly,</hi> They are alſo like in re<g ref="char:EOLhyphen"/>ſpect of the time of their meet<g ref="char:EOLhyphen"/>ing, which was chiefly upon the Lord's-Day. This day was Conſecrated at firſt by the A<g ref="char:EOLhyphen"/>poſtles and Primitive Chriſtians aſſembling upon it for ſeveral religious ends: and tho theſe Aſſemblies met daily, and kept holy every day of the week and every day of their lives, yet the day they kept moſt holy was the Lord's-Day, as we read in the <hi>20th</hi> of the <hi>Acts</hi> and the <hi>7th</hi> verſe. Upon the firſt day of the week when the Diſciples
+<pb n="15" facs="tcp:152989:9"/> came together to break bread; that is, to receive the Sacrament: In which place we may obſerve that the whole day was kept holy and ſpent in Religious ex<g ref="char:EOLhyphen"/>erciſes; for St. <hi>Paul</hi> continued his preaching till it was mid<g ref="char:EOLhyphen"/>night; and tho this was more than ordinary, becauſe the A<g ref="char:EOLhyphen"/>poſtle was to leave 'em next morning, yet the Primitive Writers do all ſpeak as if the day were wholly and entirely dedicated to Religious uſes. And this I mention, becauſe there are ſome that pretend to obſerve the Lord's Day, and yet ſpend the greateſt part of it in any indifferent employment or recreation no way ſerviceable to the ends of Religion. Now this being one of the principal ends of your meeting together,
+<pb n="16" facs="tcp:152989:10"/> this muſt needs be a great en<g ref="char:EOLhyphen"/>couragment to you, that in this you reſemble the bleſſed Saints of the pure and primitive Church.</p>
+            <p>
+               <hi>3dly,</hi> We find in my Text, that they continned ſtedfaſtly in the Apoſtles Doctrine: They were all of one Faith and one Church, and had no controver<g ref="char:EOLhyphen"/>ſies nor difference of opinion; for their buſineſs was not to diſpute about notions and empty ſpeculations, but thoſe few fun<g ref="char:EOLhyphen"/>damental truths which the A<g ref="char:EOLhyphen"/>poſtles taught 'em, they all una<g ref="char:EOLhyphen"/>nimouſly agree'd in, and pro<g ref="char:EOLhyphen"/>ceeded upon this foundation to build the ſuperſtructure of a ho<g ref="char:EOLhyphen"/>ly and devout Life. And this being one of your Laws, and the chief foundation of your So<g ref="char:EOLhyphen"/>cieties, that your members ſhall
+<pb n="17" facs="tcp:152989:10"/> all be of one Church, and one Re<g ref="char:EOLhyphen"/>ligion, and ſhall continue ſted<g ref="char:EOLhyphen"/>faſtly, in the Apoſtles Doctrine, in the Doctrine of the Apoſtoli<g ref="char:EOLhyphen"/>cal Church Eſtabliſh't in this Kingdom; and that they ſhall not meddle with diſputes and controverſies, but wholly apply themſelves to works of Piety I need not inſiſt longer upon your agreement with them in this particular; but only exhort and entreat you to keep up to this principle, and as you tender the preſervation of your Societies, never to admit of controverſies in Religion, nor of ſuch men as are addicted to 'em, but to exclude all that are not peace<g ref="char:EOLhyphen"/>ably inclined. And tho you are to love your enemies, yet you muſt deny 'em this kindneſs, of making 'em members of your
+<pb n="18" facs="tcp:152989:11"/> Societies before they are mem<g ref="char:EOLhyphen"/>bers of your Church: For if they tear the Church aſunder when they have ſo many com<g ref="char:EOLhyphen"/>mands in the Scripture for the contrary, how can you expect they ſhou'd preſerve an invio<g ref="char:EOLhyphen"/>lable union with you? but if you do in a kind and amicable way refuſe to joyn with 'em, you will both ſecure your ſelves, and in time gain Proſelytes to the Church.</p>
+            <p>
+               <hi>4thly,</hi> They continued alſo in breaking of bread, that in re<g ref="char:EOLhyphen"/>ceiving the Sacrament of the Lord's-Supper: But whether this was daily or weekly, it does not certainly appear in the Scriptures. For by the <hi>46th</hi> verſe of this Chapter it ſeems to have been daily. And they continued daily in the Temple, and break<g ref="char:EOLhyphen"/>ing
+<pb n="19" facs="tcp:152989:11"/> of bread from houſe to houſe: as if he had ſaid, that they went every day to the Temple to pray, as the cuſtom was among the devout Jews, and from thence they went to their houſes, and broke bread, or re<g ref="char:EOLhyphen"/>ceived the Communion toge<g ref="char:EOLhyphen"/>ther from the Apoſtles hands, which at that time they were forced to do privately in their houſes. But in the <hi>20th</hi> Chap<g ref="char:EOLhyphen"/>ter we find that the firſt day of the week was particularly ſet apart for Celebrating this So<g ref="char:EOLhyphen"/>lemnity; and by that time tis likely they found it inconveni<g ref="char:EOLhyphen"/>ent to receive every day, and therefore appointed one day in the week to be for ever kept holy on this account chiefly, and to ſerve inſtead of the Jewiſh Sabbath. This practice of
+<pb n="20" facs="tcp:152989:12"/> theirs you do in ſome meaſure imitate by your monthly Com<g ref="char:EOLhyphen"/>munion, to which you oblige all your members, unleſs in caſes of neceſſity and exraordinary caſualties: and I don't queſtion but in time you may come up to the perfection of Communi<g ref="char:EOLhyphen"/>tating weekly, and by your ex<g ref="char:EOLhyphen"/>amples incite ſo many others, that all the Clergy may be en<g ref="char:EOLhyphen"/>couraged to adminiſter the Sa<g ref="char:EOLhyphen"/>crament every week in their Churches; for this was done by the whole Primitive Church for many hundred years; and this our Liturgy ſuppoſes to be done by us, where a Communion is implied as often as the Com<g ref="char:EOLhyphen"/>munion-Service is <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>read; and this wou'd be truly and proper<g ref="char:EOLhyphen"/>ly obſerving the Lord's-Day, which was firſt appointed for
+<pb n="21" facs="tcp:152989:12"/> this purpoſe, and conſecrated chiefly by this Selemnity.</p>
+            <p>
+               <hi>5thly,</hi> You find in my Text that they continued alſo in prayers; and ſo in the <hi>12th</hi> Chapter, that they uſed to meet together for prayer, tho the A<g ref="char:EOLhyphen"/>poſtles were not with'em. Not only each family had its own family devotion, as we read of <hi>Cornelius</hi> in the <hi>10th</hi> Chapt. but ſeveral people met at one houſe to <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> up and increaſe each o<g ref="char:EOLhyphen"/>the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Devotion<g ref="char:punc">▪</g> For tho a<g ref="char:EOLhyphen"/>mong<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Deuotion is moſt cool in publick <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Society does <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it<g ref="char:punc">▪</g> as fuel added <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and in<g ref="char:EOLhyphen"/>deed all <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> thrive and <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> example, and in <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. Now the word, <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be taken in a large ſenſe, as <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> very of<g ref="char:EOLhyphen"/>ten
+<pb n="22" facs="tcp:152989:13"/> in the Scriptures, not only for petitions and addreſſes im<g ref="char:EOLhyphen"/>mediately directed to God, but for reading the Scriptures, and for pious Diſcourſes, and any holy Exerciſe proper for ſuch Societies. And in this particu<g ref="char:EOLhyphen"/>lar you alſo agree with theſe Primitive converts: Tho as to Prayer ſtrictly ſo taken, you are forced to be brief in that reſpect at your Meetings, and thoſe few Collects, you uſe to take 'em chiefly out of the Churches Li<g ref="char:EOLhyphen"/>turgy, leſt you ſhou'd be thought to deſpiſe the Churches Service, as too many do in theſe licen<g ref="char:EOLhyphen"/>tious times.</p>
+            <p>
+               <hi>6thly,</hi> Another Vertue which abounded in the firſt Chriſti<g ref="char:EOLhyphen"/>ans, was that of Charity or Alms-giving, For we are told in the verſes following my Text,
+<pb n="23" facs="tcp:152989:13"/> that they had all things in com<g ref="char:EOLhyphen"/>mon, and ſold their poſſeſſions &amp; goods, and parted them to all men, as every man had need. And ſo in the <hi>4<hi rend="sup">th</hi>
+               </hi> Chapter and <hi>32<hi rend="sup">th</hi>
+               </hi> Verſe.—That none of them ſaid that ought of the things he poſſeſs'd was his own, but they had all things common. But this extraordinary degree, or rather this way of Charity by ſelling and dividing their poſſeſſions, was proper to that time, and that particular num<g ref="char:EOLhyphen"/>ber of Chriſtians, and not after<g ref="char:EOLhyphen"/>wards imitated, even by the Primitive Church. For then there was no danger nor poſſi<g ref="char:EOLhyphen"/>bility of wanting, tho they ſold their poſſeſſions, becauſe the Divine Providence had an ex<g ref="char:EOLhyphen"/>traordinary and particular care over thoſe men, as appears by
+<pb n="24" facs="tcp:152989:14"/> that paſſage in the <hi>11<hi rend="sup">th</hi>
+               </hi> Chap. of the <hi>Acts,</hi> where <hi>Agabus</hi> pro<g ref="char:EOLhyphen"/>pheſied of a Famine that was approaching, and gave warning to make proviſion for the Saints that dwelt at <hi>Jeruſalem,</hi> which were the people mention'd in my Text. And beſides, this So<g ref="char:EOLhyphen"/>ciety of men being a ſort of Nur<g ref="char:EOLhyphen"/>ſery to the Catholick Church of the whole World, and the members of it continually cho<g ref="char:EOLhyphen"/>ſen out to be ſent abroad, they had reaſon to fell their Lands, and do many other things which are not ſo neceſſary in a ſettled condition of the Church. The right imitation therefore of theſe Chriſtians conſiſts in this, in being extraordinary chari<g ref="char:EOLhyphen"/>table to the utmoſt of our abi<g ref="char:EOLhyphen"/>lities; and if we have but little, in giving gladly of that little:
+<pb n="25" facs="tcp:152989:14"/> and yet if we have nothing, out charity may be like theirs, as we find in the next Chapter, where St. <hi>Peter</hi> and St. <hi>John</hi> the chief of all the Church had nei<g ref="char:EOLhyphen"/>ther Gold nor Silver, and cou'd give no Alms to the poor Beg<g ref="char:EOLhyphen"/>gar. And thus you imitate the firſt Chriſtians at your meetings, by giving Alms according to your abilities, and making this one part of your employment at that time, to conſider what ob<g ref="char:EOLhyphen"/>jects of charity are in greateſt want of your relief, and contri<g ref="char:EOLhyphen"/>bute your mite to 'em, which our Saviour ſays, is as great as all the treaſures of rich men: and ſurely when others that are more able to give Alms, are ſtir'd up by your example, they will be aſhamed to give ſo ſpa<g ref="char:EOLhyphen"/>ringly as the cuſtom is now a<g ref="char:EOLhyphen"/>mong
+<pb n="26" facs="tcp:152989:15"/> the wealthier ſort of peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>Under this head of Charity I muſt add ſomething concer<g ref="char:EOLhyphen"/>ning Juſtice to our Neighbour, a Vertue moſt ſtrictly ob<g ref="char:EOLhyphen"/>ſerv'd by all the Primitive Chriſtians, in their contracts and dealings with other men. For tho it is not expreſly men<g ref="char:EOLhyphen"/>tion'd in this place, yet it is plainly intimated, and follows of neceſſity from the other Vertue. For if they were ſo charitable as to give all their Riches and Eſ<g ref="char:EOLhyphen"/>tates to the poor, they cou'd not be ſuppoſed to do any act of in<g ref="char:EOLhyphen"/>juſtice, tho they might gain the whole World by it. And this I mention to you, becauſe by your profeſſions you are always em<g ref="char:EOLhyphen"/>ployed in thoſe actions that are the ſubject of Juſtice: and there<g ref="char:EOLhyphen"/>fore
+<pb n="27" facs="tcp:152989:15"/> as you have already gain'd a great reputation for honeſty and fair dealing, ſo I muſt beg and entreat you to take a particular care hereafter of all your actions in reference to this duty; that you may not be like the hypocrites of theſe times, that pretend piety, &amp; de<g ref="char:EOLhyphen"/>ſign advantage; but like the Chriſtians in my Text, that thought of nothing but the ne<g ref="char:EOLhyphen"/>ceſſaries of Life, and deſpiſed riches and all other bleſſings when they came in competition with the duties of Juſtice and Charity.</p>
+            <p>
+               <hi>7thly.</hi> Another Vertue, and the laſt I ſhall mention, in which you agree with them, is a ſervent zeal and concern for the converſion and ſalvation of other men: the nobleſt of all
+<pb n="28" facs="tcp:152989:16"/> the Graces, and the perfection and fulneſs, or rather the over<g ref="char:EOLhyphen"/>flowing of Religion and Piety; than which nothing can be more acceptable to God, more ſerviceable to the Church, and more advantagious to your own ſouls. For <hi>they that bring many to righteouſneſs, ſhall ſhine like the ſtars for ever and ever;</hi> and not only ſhall be like the An<g ref="char:EOLhyphen"/>gels, but like the Son of God, whoſe only buſineſs upon earth, was to reform and ſave Sinners from deſtruction. Now, the Chriſtians mention'd in my Text, were above all others re<g ref="char:EOLhyphen"/>markable for this Vertue: they met together, as an heathen Au<g ref="char:EOLhyphen"/>thor ſaid of 'em, not to conſpire againſt the Government, but a<g ref="char:EOLhyphen"/>gainſt Injuſtice, and Adultery, and other Sins: and all their
+<pb n="29" facs="tcp:152989:16"/> ambition, and their whole em<g ref="char:EOLhyphen"/>ployment was, to root out Er<g ref="char:EOLhyphen"/>rors and Irreligion from the hearts of men. And tho it was the peculiar office of the Apo<g ref="char:EOLhyphen"/>ſtles<g ref="char:punc">▪</g> and Miniſters of the Goſ<g ref="char:EOLhyphen"/>pel, to Preach publickly to others, yet to admoniſh and in<g ref="char:EOLhyphen"/>ſtruct privately they thought their duty, and never reſted from performing it. Thus in the <hi>18th</hi> Chap. of the <hi>Acts, Aquila</hi> and <hi>Priſcilla</hi> took <hi>Apollos</hi> to them, and in private expounded the way of God to him more per<g ref="char:EOLhyphen"/>fectly. And ſuch expreſſions as theſe are common in St. <hi>Paul</hi>'s Epiſtles: Greet <hi>Aquila</hi> and <hi>Priſ<g ref="char:EOLhyphen"/>cilla</hi> my helpers in Chriſt; Sa<g ref="char:EOLhyphen"/>lute <hi>Tryphena</hi> and <hi>Tryphoſa,</hi> who labour in the Lord. For if the people had not been zealous in promoting the common work
+<pb n="30" facs="tcp:152989:17"/> of Piety, and true Religion, by admoniſhing and inſtructing in a private way every man his own Friends &amp; Acquaintances, 'tis impoſſible that the few A<g ref="char:EOLhyphen"/>poſtles and Clergy of thoſe times ſhou'd have gain'd the tith of thoſe innumerable pro<g ref="char:EOLhyphen"/>ſelytes to Goodneſs and Chriſti<g ref="char:EOLhyphen"/>anity: And the ſame thing may be affirm'd of this preſent age, that if others do not help the Clergy, and contribute what aſ<g ref="char:EOLhyphen"/>ſiſtance is proper for them to<g ref="char:EOLhyphen"/>wards the work of Reformati<g ref="char:EOLhyphen"/>on, we muſt expect that Vertue will ſtill decay, and the World grow worſe, and more irreligi<g ref="char:EOLhyphen"/>ous every day.</p>
+            <p>I know few or none, excep<g ref="char:EOLhyphen"/>ting your ſelves, that are ſenſi<g ref="char:EOLhyphen"/>ble of this duty; but you have endeavour'd to imitate the pat<g ref="char:EOLhyphen"/>tern
+<pb n="31" facs="tcp:152989:17"/> ſet before you in my Text; and have made your ſelves like the firſt Chriſtians, a nurſery and ſeminary of Vertue, and good Morality, and true Religi<g ref="char:EOLhyphen"/>on; and God has ſhewed his approbation of your deſign, as he did in the firſt planting of Chriſtianity, by the great ſuc<g ref="char:EOLhyphen"/>ceſs of your labours, and the ex<g ref="char:EOLhyphen"/>traordinary encreaſe of your number in ſo ſhort a time as it has been ſince you begun this work: ſo great an increaſe, that if it ſhou'd continue in the ſame proportion but a few years lon<g ref="char:EOLhyphen"/>ger, Vertue wou'd become the faſhion, and Vice grow ſcanda<g ref="char:EOLhyphen"/>lous for want of number to en<g ref="char:EOLhyphen"/>courage and defend it. I might here uſe a multitude of argu<g ref="char:EOLhyphen"/>ments, to ſhew how it is your duty, and your intereſt; your
+<pb n="32" facs="tcp:152989:18"/> eternal intereſt, and the intereſt of the Church and Kingdom, that you ſhou'd continue ſted<g ref="char:EOLhyphen"/>faſt and immovable in this Ver<g ref="char:EOLhyphen"/>tue; and how encreaſe and multiply, is not only the firſt &amp; moſt neceſſary command of the Creation, but in a ſpiritual ſenſe of the Goſpel alſo, and the Chriſtian Religion. But my deſign was to preſs upon you this and the other duties only by the motive of conforming your ſelves to the firſt and beſt of all Chriſtians, which I thought was moſt likely to prevail upon all that have the right and genuine temper of Chriſtianity.</p>
+            <p>And thus far I have made the compariſon between you and them in 7 Particulars. 1 In meeting together to carry on the publick work 2 In meet<g ref="char:EOLhyphen"/>ing
+<pb n="33" facs="tcp:152989:18"/> upon the Lord's-Day to keep that holy. 3 In continuing ſtedfaſtly in one Apoſtolical Faith. 4 In breaking of bread, or receiving the Communion frequently. 5 In continuing alſo in Prayer both publick and private. 6 In Charity or Alms-giving. 7 In Zeal and Fervor, for the Converſion and Salvation of other men. Which Rules of your Society may you always obſerve, and never ſail to have the ſame ſucceſs with which God has hitherto bleſt your endeavours.</p>
+            <p>But as you are like the firſt Chriſtians in all theſe particu<g ref="char:EOLhyphen"/>lars, ſo you muſt remember that there is one thing which I inti<g ref="char:EOLhyphen"/>mated at firſt, in which you can<g ref="char:EOLhyphen"/>not reſemble them; and that is the miraculous power of the
+<pb n="34" facs="tcp:152989:19"/> Holy Ghoſt, which for many years upheld and encouraged their endeavours. You muſt not expect, I ſay, that God will work ſuch wonders, as he did then, for your aſſiſtance and en<g ref="char:EOLhyphen"/>couragement; for the time of miracles is over, and therefore</p>
+            <p>In the 1ſt place, ſince you can<g ref="char:EOLhyphen"/>not depend upon miracles, be ſo much the more careful and dili<g ref="char:EOLhyphen"/>gent in your work, and make up the want of them by reſolution and conſtancy. You will meet with the ſame obſtacles and the ſame dangers, excepting Mar<g ref="char:EOLhyphen"/>tyrdom, but be not diſcouraged or frightned by it; ſome will laugh at you, and others will cenſure and affront you, and per<g ref="char:EOLhyphen"/>haps your numbers may not en<g ref="char:EOLhyphen"/>creaſe as you expect; but let not all this diſhearten you, for
+<pb n="35" facs="tcp:152989:19"/> your deſign is noble and heroick, and your labour will be reward<g ref="char:EOLhyphen"/>ed as much as if you had con<g ref="char:EOLhyphen"/>verted the whole world to a ſenſe of Piety and Religion.</p>
+            <p>
+               <hi>2dly.</hi> Since you have no mi<g ref="char:EOLhyphen"/>racles to preſerve you, nor any extraordinary inſpiration, ſuch as the firſt Chriſtians had, to direct you; therefore beware of your ſelves and your own infirmities, leſt they betray you into Error, and ruin the glorious deſign you are engaged in. You muſt therefore reſolve ſtrictly to obſerve all the Laws you have agreed to: you muſt not de<g ref="char:EOLhyphen"/>pend wholly upon your own knowledge, but ask counſel of thoſe that are wiſer, and eſpe<g ref="char:EOLhyphen"/>cially your own Paſtors: you muſt work out the ſalvation of other men, as you do your own,
+<pb n="36" facs="tcp:152989:20"/> with fear and trembling: you muſt rebuke without cenſori<g ref="char:EOLhyphen"/>ouſneſs, and triumph over Sin without pride or inſolence; and ſince you are not infallibly gui<g ref="char:EOLhyphen"/>ded by the Spirit, you muſt take a particular care of avoiding all diſputes and differences among your ſelves, for which there can be no better way, than to re<g ref="char:EOLhyphen"/>ſolve never to meddle with any controverſy, no, not concerning morality it ſelf, ſo far as to fall into any heats and animoſities about it.</p>
+            <p>Theſe Cautions, if you ob<g ref="char:EOLhyphen"/>ſerve, and continue in your good reſolutions, the bleſſings of God will undoubtedly attend your endeavours, and the whole Na<g ref="char:EOLhyphen"/>tion may in time feel the good effects of your labours. At leaſt your own reward will be ex<g ref="char:EOLhyphen"/>traordinary
+<pb n="37" facs="tcp:152989:20"/> in proportion to the good you deſign, whether you ſucceed or no. The Pſal<g ref="char:EOLhyphen"/>miſt when he deſired a bleſſing from God, to gain his favour, made a vow to give him what he thought above all things wou'd pleaſe him; which thing if thou wilt grant me, then ſhall the righteous reſort unto my company. To live in the Socie<g ref="char:EOLhyphen"/>ty of good men, is the moſt ac<g ref="char:EOLhyphen"/>ceptable offering we can make to the Almighty, eſpecially when good men meet together to en<g ref="char:EOLhyphen"/>creaſe the number of the righte<g ref="char:EOLhyphen"/>ous, by inſtructing the ignorant, and reforming the wicked: this is not only pleaſing to God, but an occaſion of joy to all the Angels in Heaven, and he that encreaſes now the joy of that place, may expect to partake of it abundant<g ref="char:EOLhyphen"/>ly hereafter.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:152989:21"/>
+            <pb n="39" facs="tcp:152989:21"/>
+            <head>THE <hi>Method to be obſerv'd</hi> By The Several Religious Societies <hi>When they meet together.</hi>
+            </head>
+            <p>1ſt. AT their firſt meeting they may diſcourſe of what Sermons they have heard, what good Books they have ſeen and read, or upon any other pious Subject, till a competent number be come together.</p>
+            <p>2. Then the <hi>Prelector</hi> (who is the ſame with the Steward) muſt begin the Prayers with one or more of theſe Senten<g ref="char:EOLhyphen"/>ces.</p>
+            <pb n="40" facs="tcp:152989:22"/>
+            <p>Behold how good and joyful a thing it is, for Brethren to dwell together in unity, <hi>Pſ.</hi> 133. ver. 1.</p>
+            <p>Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou ſhalt ſay, I have no pleaſure in them, <hi>Eccleſ.</hi> 12 Ch. ver. 1.</p>
+            <p>Exhort one another while it is called to day, leaſt any of you be hardned through the deceit<g ref="char:EOLhyphen"/>fulneſs of ſin; knowing, that he that converteth a Sinner from the error of his ways, ſhall ſave a ſoul from death, and ſhall co<g ref="char:EOLhyphen"/>ver a multitude of ſins, <hi>James</hi> 5 Ch. ver. 20.</p>
+            <p>Then let every man kneel.</p>
+            <p>
+               <hi>Prel.</hi> Let us Pray,</p>
+            <p>Lord have mercy upon us.</p>
+            <p>Anſ. <hi>Chriſt have mercy upon</hi>
+            </p>
+            <pb n="41" facs="tcp:152989:22"/>
+            <p>
+               <hi>Prel.</hi> Lord have mercy upon us.</p>
+            <p>Our Father which art in Hea<g ref="char:EOLhyphen"/>ven, Hallowed be thy Name; Thy Kingdom come, thy Will be done on Earth as it is in Hea<g ref="char:EOLhyphen"/>ven: Give us this day our daily bread, and forgive us our Treſ<g ref="char:EOLhyphen"/>paſſes as we forgive them that treſpaſs againſt us; and lead us not into Temptation, but deliver us from evil, for thine is the Kingdom, the Power and the Glory, for ever and ever, <hi>Amen,</hi>
+            </p>
+            <p>
+               <hi>Prel.</hi> O Lord ſave thy Ser<g ref="char:EOLhyphen"/>vants,</p>
+            <p>Anſ. <hi>Who put their trust in thee.</hi>
+            </p>
+            <p>
+               <hi>Prel.</hi> Send us help from a<g ref="char:EOLhyphen"/>bove,</p>
+            <p>Anſ. <hi>And evermore mightily defend us.</hi>
+            </p>
+            <pb n="42" facs="tcp:152989:23"/>
+            <p>
+               <hi>Prel.</hi> Help us, O God, our Sa<g ref="char:EOLhyphen"/>viour,</p>
+            <p>Anſ. <hi>And for the glory of thy Name deliver us; be merciful to us Sinners, for thy Names ſake.</hi>
+            </p>
+            <p>
+               <hi>Prel.</hi> O Lord, ſave thy Ser<g ref="char:EOLhyphen"/>vant, King <hi>William.</hi>
+            </p>
+            <p>Anſ. <hi>And give him the victo<g ref="char:EOLhyphen"/>ry over all his Enemies.</hi>
+            </p>
+            <p>
+               <hi>Prel.</hi> O Lord, hear our Pray<g ref="char:EOLhyphen"/>er,</p>
+            <p>Anſ. <hi>And let our Cry come un<g ref="char:EOLhyphen"/>to thee.</hi>
+            </p>
+            <p>
+               <hi>Prel.</hi> Let us Pray,</p>
+            <p>O God the ſtrength of all them that put their truſt in thee, mercifully accept our Prayers: and becauſe through the weak<g ref="char:EOLhyphen"/>neſs of our mortal natures we can do no good thing without thee, grant us the help of thy grace, that in keeping thy Com<g ref="char:EOLhyphen"/>mandments
+<pb n="43" facs="tcp:152989:23"/> we may pleaſe thee both in will and deed, thro Jeſus Chriſt our Lord, <hi>Amen.</hi>
+            </p>
+            <p>Almighty God, who ſeeſt that we have no power of our ſelves to help our ſelves, keep us both outwardly in our bodies, and in<g ref="char:EOLhyphen"/>wardly in our ſouls, that we may be defended from all adver<g ref="char:EOLhyphen"/>ſities that may happen to the body, and from all evil thoughts which may aſſault and hurt the ſoul, thro Jeſus Chriſt our Lord, <hi>Amen.</hi>
+            </p>
+            <p>O Almighty God who alone canſt order the <hi>unruly</hi> wills &amp; af<g ref="char:EOLhyphen"/>fections of ſinful men, grant <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to thy <hi>people,</hi> that they may love the thing which thou comman<g ref="char:EOLhyphen"/>deſt, and deſire that which thou doſt promiſe that ſo among the
+<pb n="44" facs="tcp:152989:24"/> ſundry and manifold changes of the World our hearts may ſure<g ref="char:EOLhyphen"/>ly there be fixt where true joys are to be found, thro Jeſus Chriſt our Lord, <hi>Amen.</hi>
+            </p>
+            <p>O Lord we beſeech thee mer<g ref="char:EOLhyphen"/>cifully to hear us, and grant that we to whom thou haſt given a hearty deſire to Pray, may by thy mighty aid be defended and comforted in all dangers and ad<g ref="char:EOLhyphen"/>verſities, and devoutly given to ſerve thee in all good works, to the glory of thy name, thro Jeſus Chriſt our Lord, <hi>Amen.</hi>
+            </p>
+            <p>Bleſſed Lord, who haſt cauſed all holy Scriptures to be written for our learning, grant that we may in ſuch wiſe hear them, read, mark, learn, and inwardly digeſt them, that by patience and comfort of thy holy word, we may embrace and ever hold faſt
+<pb n="45" facs="tcp:152989:24"/> that bleſſed hope of everlaſting Life, which thou haſt given us in our Saviour Jeſus Chriſt, <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+            </p>
+            <p>Here all ſtanding the <hi>Praelector</hi> ſhall ſay,</p>
+            <p>
+               <hi>Prel.</hi> O praiſe the Lord with me.</p>
+            <p>Anſ. <hi>Let us magnify his name together.</hi>
+            </p>
+            <p>
+               <hi>Prel.</hi> Glory be to the Father, and to the Son, and to the Holy Ghoſt.</p>
+            <p>Anſ. <hi>As it was in the beginning, is now, and ever ſhall be, World without end, Amen.</hi>
+            </p>
+            <p>Then ſhall all ſay after the <hi>Prelector.</hi>
+            </p>
+            <p>It is meet<g ref="char:punc">▪</g> right, and our bounden duty, that we ſhou'd at all times, and in all places, give thanks unto thee, O Lord, holy Father, Almighty, ever<g ref="char:EOLhyphen"/>laſting
+<pb n="46" facs="tcp:152989:25"/> God. Therefore with Angels and Archangels, and with all the company of Heaven, we laud and magnify thy glori<g ref="char:EOLhyphen"/>ous name, evermore praiſing thee, and ſaying, Holy, Holy, Holy Lord God of Hoſts, Hea<g ref="char:EOLhyphen"/>ven and Earth are full of thy glory; Glory be to thee, O Lord moſt high, <hi>Amen.</hi>
+            </p>
+            <p>After this the <hi>Prelector</hi> ſhall name a <hi>Pſalm,</hi> or part of a <hi>Pſalm,</hi> which they ſhall all ſing.</p>
+            <p>3. Then the <hi>Prelecter</hi> ſhall read diſtinctly a Chapter or more out of the New Teſta<g ref="char:EOLhyphen"/>ment, where it relates moſt to practiſe, together with Dr. <hi>Hammond</hi>'s paraphraſe, or any other good comment, to be ap<g ref="char:EOLhyphen"/>prov'd of by the Biſhop, or ſome
+<pb n="47" facs="tcp:152989:25"/> Orthodox Miniſter of the Eſta<g ref="char:EOLhyphen"/>bliſh'd Church.</p>
+            <p>4. Afterwards he ſhall read a portion of ſome Expoſition on the Church Catechiſm, or ſome other practical good Book, to be approv'd of as above; and this may be ſhorter or longer, accor<g ref="char:EOLhyphen"/>ding as the time will permit.</p>
+            <p>5. Then ſhall every man that is able, give his Alms for the Poor; and whilſt this is doing, the Prelector ſhall read as ma<g ref="char:EOLhyphen"/>ny of theſe following Senten<g ref="char:EOLhyphen"/>ces as he thinks convenient.</p>
+            <p>Let y<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur light ſo ſhine before men, that they may ſee your good works, and glorify your Father which is in <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaven, <hi>Mat.</hi> 5. 18.</p>
+            <pb n="48" facs="tcp:152989:26"/>
+            <p>Lay not up for your ſelves treaſures upon Earth, where the ruſt and moth doth corrupt, and where thieves break through &amp; ſteal; but lay up for your ſelves treaſures in Heaven, where nei<g ref="char:EOLhyphen"/>ther ruſt nor moth doth cor<g ref="char:EOLhyphen"/>rupt, and where thieves do not break through and ſteal, <hi>Mat.</hi> 6. 19, 20.</p>
+            <p>While we have time, let us do good unto all men, and eſpe<g ref="char:EOLhyphen"/>cially unto the<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> who are of the houſhold of <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>l.</hi> 6. 10.</p>
+            <p>God is not unri<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eous, that he will forget your <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orks and labour, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at proceedeth of love, which love ye have ſhewed for his names <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, who have mi<g ref="char:EOLhyphen"/>niſtred to <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Saints, and yet do miniſter, <hi>Heb.</hi> 6. 10.</p>
+            <pb n="49" facs="tcp:152989:26"/>
+            <p>To do good, and to diſtribute, forget not; for with ſuch ſacrifi<g ref="char:EOLhyphen"/>ces God is well pleaſed, <hi>He.</hi> 13. 16</p>
+            <p>Be merciful after thy power; if thou haſt much, give plen<g ref="char:EOLhyphen"/>teouſly; if thou haſt little, do thy diligence gladly to give of that little, for ſo gathereſt thou thy ſelf a good reward in the day of neceſſity, <hi>Tob<g ref="char:punc">▪</g>
+               </hi> 4. 8, 9.</p>
+            <p>He that hath pitty on the poor, lendeth unto the Lord; and look what <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayeth out, it ſhall be paid <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> again, <hi>Prov.</hi> 19. 17.</p>
+            <p>Bleſſed <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that pro<g ref="char:EOLhyphen"/>videth <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> needy: the Lor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall deliver him in the time of trouble, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 1. 1.</p>
+            <p>When they have given their alms, they ſhall <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> while, if they have time, and diſcourſe
+<pb n="50" facs="tcp:152989:27"/> upon any pious ſubject that of<g ref="char:EOLhyphen"/>fers, <hi>viz.</hi> what objects of Cha<g ref="char:EOLhyphen"/>rity they know, particularly ſuch as have lived well hcreto<g ref="char:EOLhyphen"/>fore: and what young men of their acquaintance may be gain'd over to a vertuous con<g ref="char:EOLhyphen"/>verſation; and if there be any difficulty, or caſe of Conſcience neceſſary to be reſolved, or any religious affair to be ſettled, let it be then propounded, and calm<g ref="char:EOLhyphen"/>ly diſcourſed of.</p>
+            <p>After which, let a Pſalm be ſung, and after that, let them all repeat the Apoſtles Creed ſtand<g ref="char:EOLhyphen"/>ing; and then let the Prelector conclude with theſe Collects, every man kneeling.</p>
+            <p>C<g ref="char:punc">▪</g> Aſſiſt us mercifully, O Lord, in theſe our ſupplications and Prayers, and diſpoſe the way of thy ſervants towards
+<pb n="50" facs="tcp:152989:27"/> the attainment of everlaſting ſalvation: that among all the changes and chances of this mortal life, they may ever be defended by thy moſt gracious and ready help, thro Jeſus Chriſt our Lord, <hi>Amen.</hi>
+            </p>
+            <p>O Almighty Lord, and ever<g ref="char:EOLhyphen"/>laſting God; vouchſafe, we be<g ref="char:EOLhyphen"/>ſeech thee, to direct, ſanctify &amp; govern both our hearts and bo<g ref="char:EOLhyphen"/>dies in the ways of thy laws, and in the works of thy Command<g ref="char:EOLhyphen"/>ments, that through thy moſt mighty protection both here &amp; ever, we may be preſerved both in body and ſoul, through our Lord and Saviour Jeſus Chriſt, <hi>Amen.</hi>
+            </p>
+            <p>Bleſſed Lord, who haſt taught us, that all our doings without Charity are nothing worth; ſend thy Holy Ghoſt, and pour
+<pb n="50" facs="tcp:152989:28"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="50" facs="tcp:152989:28"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="51" facs="tcp:152989:29"/> into our hearts that moſt excel<g ref="char:EOLhyphen"/>lent gift of Charity; that we may love thee above all things, and ſincerely love our neigh<g ref="char:EOLhyphen"/>bour for thy ſake, and endeavor the benefit of his precious ſoul. Make us ever more fearful of his danger, than of his diſpleaſure, and more deſirous of his good than of his favour. Give us therefore Chriſtian courage to reprove, wiſdom to adviſe, coun<g ref="char:EOLhyphen"/>cel to direct, and prudence to know how, and when, and what to ſpeak, as we ought to do: and O, let a ſpirit of reforma<g ref="char:EOLhyphen"/>tion be in us, to put a ſtop to that profaneſs &amp; irreligion that reigns among us: and do thou magnify thy power in the weak<g ref="char:EOLhyphen"/>neſs of the inſtruments thou makeſt uſe of. Give us clean and pure hearts, and ſo ſtreng<g ref="char:EOLhyphen"/>then
+<pb n="53" facs="tcp:152989:29"/> our good reſolutions with thy holy Spirit, that we may ne<g ref="char:EOLhyphen"/>ver faint, nor grow weary of the work we have undertaken. And that it may be ſucceſsful, give us the ſpirit of Love, and Peace, and Unity, that no dif<g ref="char:EOLhyphen"/>ferences may ever diſturb us, or hinder our deſign of teaching Sinners thy ways, and drawing others to thy love; that ſo when thou ſhalt come to gather thy Saints together, we may be found an acceptable people in thy ſight: to whom, with the Father, and the holy Spirit, be all praiſe and glory now and for ever, <hi>Awen.</hi>
+            </p>
+            <p>O moſt holy and gracious Lord, who in the holy Scriptures haſt told us, that tho we ſhou'd perform all that thou haſt com<g ref="char:EOLhyphen"/>manded, we are ſtill unprofita<g ref="char:EOLhyphen"/>ble
+<pb n="54" facs="tcp:152989:30"/> Servants: we proſtrate our ſelves before thee, with the low<g ref="char:EOLhyphen"/>eſt humility of ſoul and body, acknowledging that we are but ſinful duſt and aſhes, and not only unprofitable, but diſobedi<g ref="char:EOLhyphen"/>ent, and ungrateful to thee: and we beſeech thee to inſpire into our hearts ſuch a ſenſe of our own unworthineſs, that no ſucceſs may make us high-min<g ref="char:EOLhyphen"/>ded, no perfections of our own make us proud and conceited, nor the ſins of other men make us uncharitable and conſorious: that whilſt we endeavour to bring others into the way of Piety and Religion, we our ſelves may not be caſt away. O, let us not boaſt with the Pha<g ref="char:EOLhyphen"/>riſee, of our labours and ſervi<g ref="char:EOLhyphen"/>ces, what-ever they ſhall be, but rather with the Publican,
+<pb n="55" facs="tcp:152989:30"/> ſmite our breaſts, and ſay, Lord be merciful to us ſinners, thro the merits of Jeſus Chriſt our Saviour, <hi>Amen.</hi>
+            </p>
+            <p>O GOD, our Refuge and Strength, who art the Author of all Godlineſs; hear, we be<g ref="char:EOLhyphen"/>ſeech thee, the devout Prayers of thy Servants; and grant that thoſe things which we have ask'd faithfully, we may obtain effectually, through Je<g ref="char:EOLhyphen"/>ſus Chriſt our Lord, <hi>Amen.</hi>
+            </p>
+            <p>The Lord bleſs us, and keep us; the Lord lift up his coun<g ref="char:EOLhyphen"/>tenance upon us, and give us Peace now and for evermore. <hi>Amen.</hi>
+            </p>
+            <div type="subpart">
+               <pb n="56" facs="tcp:152989:31"/>
+               <head>A Prayer to be uſed before the last Collect, by the Societies of Mar<g ref="char:EOLhyphen"/>ried men. Taken out of the 91 Pſalm.</head>
+               <p>O Almighty Lord, under whoſe defence and ſha<g ref="char:EOLhyphen"/>dow, we and our Families do dwell in ſecurity! We bleſs thy Name for all thy former mer<g ref="char:EOLhyphen"/>cies, and we beſeech thee to con<g ref="char:EOLhyphen"/>tinue thy care and protection of us, and all our concerns. Thou art our hope, and our ſtrong hold, and our God, in whom we will truſt; O defend us un<g ref="char:EOLhyphen"/>der thy wings, and let us be ſafe under thy feathers, and let thy faithfulneſs and truth be our ſhield and buckler. Let us not be afraid of any terror by night, nor of the arrow that ſlieth by
+<pb n="57" facs="tcp:152989:31"/> day; nor the peſtilence that walketh in darkneſs, nor the ſickneſs that deſtroyeth at noon<g ref="char:EOLhyphen"/>day. Let no evil happen unto us, nor any plague come nigh our dwellings; and give thy Angels charge over us (and our Families) to keep us in all thy ways; that after thou haſt bleſt us with a good life in this world, thou mayeſt ſhew us thy ſalva<g ref="char:EOLhyphen"/>tion in the world to come. For the ſake and merits of our Sa<g ref="char:EOLhyphen"/>viour Jeſus Chriſt, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <pb facs="tcp:152989:32"/>
+               <pb n="59" facs="tcp:152989:32"/>
+               <head>Rules to be conſented to, and ſubſcribed by ſuch as deſire to be Members of the Re<g ref="char:EOLhyphen"/>ligious Societics in the Kingdom of <hi>Ireland.</hi>
+               </head>
+               <p n="1">1. THE ſole deſign of theſe Societies being to pro<g ref="char:EOLhyphen"/>mote holineſs of life, 'tis neceſ<g ref="char:EOLhyphen"/>ſary that all ſuch as deſire to be admitted into any one of the ſaid Societies, ſhould in the firſt place firmly reſolve to lead a re<g ref="char:EOLhyphen"/>gular life in all ſoberneſs, righ<g ref="char:EOLhyphen"/>teouſneſs, and godlineſs: and endeavour to keep their ſouls in an habitual preparation for the worſhip of God, by the con<g ref="char:EOLhyphen"/>ſideration of his omnipreſence, and pious reflections upon the
+<pb n="60" facs="tcp:152989:33"/> daily occurrences of Provi<g ref="char:EOLhyphen"/>dence.</p>
+               <p n="2">2. None ſhall be of this So<g ref="char:EOLhyphen"/>ciety, but ſuch as own and ma<g ref="char:EOLhyphen"/>nifeſt themſelves to be members of the Eſtabliſh'd Church of <hi>Ireland,</hi> and frequent as often as conveniently they can, the Li<g ref="char:EOLhyphen"/>turgy and holy Offices of the ſaid Church, and ſuch as do not frequent, nor joyn with any other Church diſſenting from it.</p>
+               <p n="3">3. Every member of this So<g ref="char:EOLhyphen"/>ciety ſhall come every Lord's-Day to the place appointed for the meeting of the Society, as ſoon as Evening Prayer and Ser<g ref="char:EOLhyphen"/>mon is over; and if it can be done conveniently, about eight a Clock alſo in the morning: and there muſt behave himſelf according to the method pre<g ref="char:EOLhyphen"/>ſcribed
+<pb n="61" facs="tcp:152989:33"/> in this caſe. But if any man abſent himſelf, he muſt give his reaſon for it at the next meeting; and if he abſent him<g ref="char:EOLhyphen"/>ſelf habitually, he muſt be pro<g ref="char:EOLhyphen"/>ceeded againſt according to the <hi>5<hi rend="sup">th</hi>
+                  </hi> Rule.</p>
+               <p n="4">4. All the power of every So<g ref="char:EOLhyphen"/>ciety conſiſts in the votes of the majority or greater number. But becauſe it is not couvenient upon every trifling matter to proceed to votes, and alſo that confuſion may be avoided, it will be neceſſary to chuſe a Steward or Moderator once every quar<g ref="char:EOLhyphen"/>ter of a year, out of thoſe mem<g ref="char:EOLhyphen"/>bers that are of longeſt ſtanding in the Society: and to leave to him the ordering, and mana<g ref="char:EOLhyphen"/>ging, and propounding, and ex<g ref="char:EOLhyphen"/>ecuting of buſineſs. But if he does any thing which others of
+<pb n="62" facs="tcp:152989:34"/> the Society do not approve of, they may proceed to votes, and order it according to the deſire of the majority. The Steward is to be the Prelector at their devotion, and he may name his ſucceſſor, as the cuſtom has been: but if any one objects againſt him, he muſt be choſen by votes.</p>
+               <p n="5">5. In the caſe of ſcandalous converſation, or any crime whatſoever, the perſon offend<g ref="char:EOLhyphen"/>ing is to be privately advis'd and admoniſh'd by his friends in the Society to reform, and ſhew his penitence by his fu<g ref="char:EOLhyphen"/>ture behaviour. But if they cannot prevail, the Steward, with the conſent of the Society, is to paſs a publick cenſure up<g ref="char:EOLhyphen"/>on him, and warn him againſt a certain time, to aſſure the So<g ref="char:EOLhyphen"/>ciety
+<pb n="63" facs="tcp:152989:34"/> of his ſincere repentance and reformation: And if he ſhall continue impenitent, he ſhall be ordered to withdraw, and not be admitted again till he be fit for it, and earneſtly de<g ref="char:EOLhyphen"/>ſire it.</p>
+               <p n="6">6. No man is to be admitted into the Society before a quarter of a years trial, in which time he muſt be preſent at their mee<g ref="char:EOLhyphen"/>ting, but has no power nor vote in any affair: and at his admiſ<g ref="char:EOLhyphen"/>ſion he may be deſir'd by the Steward, to tell the Society the reaſons why he would be ad<g ref="char:EOLhyphen"/>mitted a member of it.</p>
+               <p n="7">7. Every member of this So<g ref="char:EOLhyphen"/>ciety muſt endeavor to make other perſons of his acquain<g ref="char:EOLhyphen"/>tance vertuous, and religious, and wiſe to ſalvation. But he muſt not bring any ſuch man
+<pb n="64" facs="tcp:152989:35"/> to the place of meeting, with<g ref="char:EOLhyphen"/>out leave firſt obtain'd from the Society.</p>
+               <p n="8">8. He muſt ſolemnly offer up his private devotions to God Almighty, at leaſt every morning, and every night: and in his Prayers crave a bleſſing upon the Societies.</p>
+               <p n="9">9. 'Tis convenient that eve<g ref="char:EOLhyphen"/>ry man keep a Faſt privately once a month, if at his own diſ<g ref="char:EOLhyphen"/>poſal; and for this, to chooſe a time which the Church has appointed for Faſting.</p>
+               <p n="10">10. Every member is re<g ref="char:EOLhyphen"/>quir'd to receive the Sacrament of the Lord's-Supper, if poſſible, once a month, in his own Pa<g ref="char:EOLhyphen"/>riſh-Church; and ſhou'd endea<g ref="char:EOLhyphen"/>vour to uſe himſelf in time to a more frequent obſervation of that holy ſolemnity.</p>
+               <p n="11">
+                  <pb n="65" facs="tcp:152989:35"/>11. The members of this So<g ref="char:EOLhyphen"/>ciety muſt viſit and aſſiſt their Brethren when they are ſick, or under any other affliction; and as often as they have opportu<g ref="char:EOLhyphen"/>nity, they muſt ſhew the like Charity to all other men accor<g ref="char:EOLhyphen"/>ding to their abilities.</p>
+               <p n="12">12. They muſt carefully ſhun all wicked company: but if it cannot be avoided, they muſt take care not to ſhew any ſin<g ref="char:EOLhyphen"/>ful compliance; but to expreſs their diſlike or abhorrence, if any ſin be committed in word or deed by any one in their com<g ref="char:EOLhyphen"/>pany: They muſt altogether abſtain from Gaming houſes &amp; other ſinful places, and as ſel<g ref="char:EOLhyphen"/>dom as poſſible be at any pub<g ref="char:EOLhyphen"/>lick Houſes, ſuch as Ale-houſes and Taverns; and when they are there, to avoid carefully all intemperance.</p>
+               <p n="13">
+                  <pb n="66" facs="tcp:152989:36"/>13. When any of 'em meet together, they ſhall take all oc<g ref="char:EOLhyphen"/>caſions to promote religious diſcourſes, and not meddle with matters of Government, or any unneceſſary diſputes and con<g ref="char:EOLhyphen"/>troverſies.</p>
+               <p n="14">14. There are ſome particu<g ref="char:EOLhyphen"/>lar Vices which they muſt take a ſpecial care to avoid; ſuch as ſpiritual pride, and the effects of it; as railing, anger, peeviſh<g ref="char:EOLhyphen"/>neſs, and impatience of contra<g ref="char:EOLhyphen"/>diction; and ſuch alſo is the ſin of injuſtice in their dealings and contracts; which if it be not carefully avoided, will make all religious Societies ſcandalous, and more hurtful than advan<g ref="char:EOLhyphen"/>tagious to Religion.</p>
+               <p n="15">15. The members of theſe Societies muſt take great care of giving others an occaſion of
+<pb n="67" facs="tcp:152989:36"/> cenſuring them, by any affected geſture, carriage, or diſcourſe in their ordinary converſation.</p>
+               <p n="16">16. If any diſpute happens between two members, the reſt ſhall endeavour to reconcile 'em. But if any great and dan<g ref="char:EOLhyphen"/>gerous difference ſhou'd happen which cannot well be decided and ended among themſelves, they ſhall all be obliged to ſtand to the judgment of their Pariſh Miniſter, and if he cannot end the Controverſy, they muſt fi<g ref="char:EOLhyphen"/>nally appeal to the Biſhop of the Dioceſs.</p>
+               <p n="17">17. The Societies have pow<g ref="char:EOLhyphen"/>er to make ſuch Rules among themſelves, as ſhall appear here<g ref="char:EOLhyphen"/>after to be neceſſary or conve<g ref="char:EOLhyphen"/>nient, with the approbation of the Biſhop.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:152989:37"/>
+               <pb facs="tcp:152989:37"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
